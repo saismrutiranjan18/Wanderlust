@@ -34,13 +34,13 @@ body{
 }
 
 .f-info{
-    display: flex;
-    height: 8rem;
-    background-color: #ebebeb;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: space-evenly;
     text-align: center;
+	height: 8rem;
+	display: flex;
+	background-color: #ebebeb;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: space-evenly;
 }
 
 .f-info-links, .f-info-socials, .f-info-brand{
@@ -56,7 +56,7 @@ body{
 }
 
 /* cards */ 
-.card{
+.listing-card{
     border:none !important;
     margin-bottom: 2rem;
 }
